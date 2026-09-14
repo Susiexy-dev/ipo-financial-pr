@@ -1,0 +1,8 @@
+interface:
+  display_name: "IPO财经公关"
+  short_description: "以企业PR负责人视角统筹A股与港股IPO策略、市场观察、危机应对及交付"
+  default_prompt: "请使用 $ipo-financial-pr，根据公司拟上市市场、当前阶段和现有材料，制定本阶段财经公关策略、执行清单和关键沟通材料。"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: true
